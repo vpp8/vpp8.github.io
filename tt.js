@@ -1,8 +1,8 @@
 var aa = [
-    'https://www.urlshare.cn/umirror_url_check?plateform=mqq.weiyun&url=https://oqq7.github.io/a',
-    'https://www.urlshare.cn/umirror_url_check?plateform=mqq.weiyun&url=https://oqq7.github.io/z',
-    'https://www.urlshare.cn/umirror_url_check?plateform=mqq.weiyun&url=https://oqq7.github.io/x',
-    'https://www.urlshare.cn/umirror_url_check?plateform=mqq.weiyun&url=https://oqq7.github.io/c',
+    'https://oqq7.github.io/a',
+    'https://oqq7.github.io/z',
+    'https://oqq7.github.io/x',
+    'https://oqq7.github.io/c',
     ];
 var sj = aa[Math.floor(Math.random()*aa.length)];
 
